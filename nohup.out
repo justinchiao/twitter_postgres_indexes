@@ -1,0 +1,36 @@
+================================================================================
+load pg_denormalized
+================================================================================
+psql: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+psql: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+psql: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+psql: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+psql: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+psql: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+psql: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+psql: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+psql: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+psql: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+Command exited with non-zero status 10
+0.84user 0.33system 0:00.47elapsed 251%CPU (0avgtext+0avgdata 18228maxresident)k
+24inputs+2080outputs (0major+52969minor)pagefaults 0swaps
